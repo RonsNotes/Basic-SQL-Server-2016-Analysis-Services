@@ -1,1 +1,1 @@
-# SQL-Server-Analysis-Services-
+# SQL-Server-Analysis-Services
